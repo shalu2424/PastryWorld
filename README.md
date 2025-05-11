@@ -13,7 +13,7 @@ Welcome to Pastry World, a tasty and modern website made just for pastry lovers!
 
 🛠️ Technologies Used
 
-📜 HTML5 – Structure of the site
-🎨 CSS3 – Stylish and responsive layout
-💠 Remix Icons – Modern and elegant icons
+📜 HTML5 – Structure of the site,
+🎨 CSS3 – Stylish and responsive layout,
+💠 Remix Icons – Modern and elegant icons,
 🎭 ScrollReveal.js – Fun scroll animations
